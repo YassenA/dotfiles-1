@@ -1,4 +1,4 @@
-![goofy ahh](https://github.com/ophi4383/dotfiles/blob/main/screenie.png)
+![goofy ahh](https://github.com/ophi4383/dotfiles/blob/main/1.png)
 
 ## `Dotfiles`
 my sway wm dotfiles :3
