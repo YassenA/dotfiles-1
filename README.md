@@ -27,6 +27,7 @@ credits to endeavouros for the default i3 config (which i based this off), and [
 - grim
 - slurp
 - neofetch
+- copyq
 - [jetbrains mono nerd font](https://github.com/ryanoasis/nerd-fonts/raw/master/patched-fonts/JetBrainsMono/NoLigatures/Regular/complete/JetBrains%20Mono%20NL%20Nerd%20Font%20Complete%20Mono%20Regular.ttf)
 - [catppuccin mocha mauve gtk theme](https://github.com/catppuccin/gtk)
 - [qogir icon theme](https://github.com/vinceliuice/Qogir-theme)
