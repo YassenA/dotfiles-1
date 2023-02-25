@@ -3,4 +3,4 @@
 # dotfiles
 sway/i3 configs
 i would not recommend using these as they're messy as fuck
-credits to (https://github.com/endeavouros-team/endeavouros-i3wm-setup)[endeavouros's team] for making the initial configs :3
+credits to [https://github.com/endeavouros-team/endeavouros-i3wm-setup](endeavouros) for making the initial configs :3
