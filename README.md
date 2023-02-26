@@ -16,6 +16,7 @@ credits to endeavouros for the default i3 config (which i based this off), and [
 
 ## `What you probably need to use this mess`
 - sway
+  - [swayfx **specifically**](https://github.com/WillPower3309/swayfx)
 - zsh
   - oh my zsh
   - powerlevel10k theme
